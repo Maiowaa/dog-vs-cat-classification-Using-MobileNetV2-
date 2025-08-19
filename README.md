@@ -17,8 +17,8 @@ Trained on the [Kaggle Dogs vs Cats Redux dataset](https://www.kaggle.com/compet
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Maiowaa/Dog-vs-Cat-Classification.git
-cd Dog-vs-Cat-Classification
+git clone https://github.com/Maiowaa/dog-vs-cat-classification-Using-MobileNetV2-.git
+cd dog-vs-cat-classification-Using-MobileNetV2-
 ```
 
 2. Create a virtual environment:
