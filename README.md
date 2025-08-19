@@ -11,3 +11,24 @@ Trained on the [Kaggle Dogs vs Cats Redux dataset](https://www.kaggle.com/compet
 ---
 
 ## 📂 Project Structure
+---
+
+## ⚙️ Installation
+
+1. Clone this repository:
+```bash
+git clone https://github.com/Maiowaa/Dog-vs-Cat-Classification.git
+cd Dog-vs-Cat-Classification
+```
+
+2. Create a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate   # On Mac/Linux
+venv\Scripts\activate      # On Windows
+```
+
+3. Install Dependencies:
+```bash
+pip install -r requirements.txt
+
